@@ -1,0 +1,9 @@
+{
+  "name": "جدول الحصص والامتحانات",
+  "short_name": "الجدول",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "description": "تطبيق إدارة جدول الحصص والامتحانات"
+}
